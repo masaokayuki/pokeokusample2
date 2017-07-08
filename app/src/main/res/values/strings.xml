@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pokeoku sample</string>
+    <string name="title_home">ホーム</string>
+    <string name="title_mypage">マイページ</string>
+    <string name="title_search">さがす</string>
+    <string name="title_chat">チャット</string>
+    <string name="title_bbs">育成論</string>
+</resources>
